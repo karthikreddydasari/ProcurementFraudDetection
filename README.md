@@ -71,5 +71,10 @@ We built an **AI-powered fraud detection system** that:
   
 ---
 
+## Contributors
+
+- @n14rishitha
+- @karthikreddydasari
+
 ## ⭐ Give this project a star if you like it!
 
