@@ -73,8 +73,8 @@ We built an **AI-powered fraud detection system** that:
 
 ## Contributors
 
-- @n14rishitha
-- @karthikreddydasari
+- Rishitha Nandanapu [https://github.com/n14rishitha]
+- Karthik Reddy Dasari [https://github.com/karthikreddydasari]
 
 ## ⭐ Give this project a star if you like it!
 
